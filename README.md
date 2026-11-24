@@ -6,6 +6,7 @@
 
 🔗 **[View Live Interactive Figma Prototype](https://www.figma.com/design/NSgnpK1PhlyegdfK9sbn98/EcoTrails?node-id=1016-5679&t=zdy8tdeIW3jDzbnc-1)**
 
+📄 **[View Full UI/UX Case Study (PDF)](./EcoTrails-Case-Study.pdf)**
 ---
 
 ## 📌 Project Overview
